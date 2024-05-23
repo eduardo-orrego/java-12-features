@@ -1,7 +1,9 @@
 # java-12-features
-
-### Configurations to use "Preview" features in Java 12
-
+## New Enhancements
+![enhancement.png](src/main/resources/enhancement.png)
+## New Preview Features
+![preview.png](src/main/resources/preview.png)
+## Configurations to use "Preview" features in Java 12
 Settings > Build, Execution, Deployment > Compiler > Java Compiler :
 
 -- Project bytecode version: 12

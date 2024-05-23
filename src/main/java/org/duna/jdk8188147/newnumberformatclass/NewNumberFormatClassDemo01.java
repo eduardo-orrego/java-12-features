@@ -1,4 +1,4 @@
-package org.duna.newnumberformatclass;
+package org.duna.jdk8188147.newnumberformatclass;
 
 import java.text.CompactNumberFormat;
 import java.text.NumberFormat;

@@ -1,4 +1,4 @@
-package org.duna.newcollectormethod;
+package org.duna.jdk8209685.newcollectormethod;
 
 import java.util.stream.Collectors;
 import java.util.stream.Stream;

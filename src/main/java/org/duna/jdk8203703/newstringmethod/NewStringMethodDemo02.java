@@ -1,4 +1,4 @@
-package org.duna.newstringmethod;
+package org.duna.jdk8203703.newstringmethod;
 
 public class NewStringMethodDemo02 {
   public static void main(String[] args){
